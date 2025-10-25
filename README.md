@@ -80,6 +80,13 @@ The API is used to:
 
 ---
 
+## 🌐 Live Demo
+
+The app is deployed on **Netlify** and can be accessed here:
+[https://flight-scanner247.netlify.app/](https://flight-scanner247.netlify.app/)
+
+---
+
 ## 🧑‍💻 Getting Started
 
 ### 1. Clone the repository
